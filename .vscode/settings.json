@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "gramatica.tab.h": "c",
+        "tabla_simbolos.h": "c",
+        "lex.yy.h": "c",
+        "dlfcn.h": "c",
+        "stdlib.h": "c"
+    }
+}

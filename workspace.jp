@@ -1,0 +1,11 @@
+_epi=8.539734;
+a=4.000000;
+e=2.718282;
+import_fun :plugin_financiero.so :eur_to_nok
+import_fun :plugin_financiero.so :eur_to_usd
+import_mod :plugin_financiero.so :finance
+import_mod :plugin_medida.so :medidas
+nueva_var=10.000000;
+pi=3.141593;
+x=3.141593;
+#WORKSPACE RESTAURADO

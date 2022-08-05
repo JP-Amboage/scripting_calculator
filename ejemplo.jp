@@ -1,0 +1,10 @@
+# fichero de ejemplo
+PI
+a = 1 + 3;
+cos(a)
+workspace
+#mensaje cualquiera
+import_fun :plugin_financiero.so :eur_to_usd
+load :ejemplo2.jp
+#vuelta del control a ejemplo 1
+pi = PI
